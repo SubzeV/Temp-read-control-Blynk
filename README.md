@@ -1,4 +1,4 @@
-# Temperature read control blynk
+# Note:
  
 code is under `/src/main.cpp`
 
